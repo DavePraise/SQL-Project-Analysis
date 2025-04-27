@@ -13,6 +13,24 @@ In total, I worked on 30 questions for my analysis and also to get famimliar wit
 5. Date and Time Functions
 6. Miscellaneous
 
+### Importing datasets into SQL
+The first step when working with datasets from external sources (e.g. csv files) is to import them into SQL. For this project, I was initially given one Excel file titled "Company Dataset" that included several worksheets containing relevant data needed for my analysis. Here is my step-by-step approach to importing the data I needed into SQL:
+1. I made separate csv files for each of the worksheets
+2. I created a table for each of the worksheets using SQL code
+3. Lasty, I imported the data for each worksheet (or csv file) into their respective tables
+
+``` Code
+-- Step 1: Import tables from Excel
+
+CREATE TYPE gender_enum AS ENUM ('M', 'F')
+
+CREATE TABLE employees (emp_no int PRIMARY KEY,
+			birth_date date,
+			first_name varchar (14),
+			last_name varchar (16),
+			gender gender_enum,
+			hire_date date)
+```
 ## Challenges Faced
 
 ## Tools
