@@ -82,15 +82,15 @@ select * from dept_manager
 ```
 
 Result:
-![Query Result](table_result1.jpg)
+![Query Result](images/table_result1.jpg)
 
-![Query Result](table_result2.jpg)
+![Query Result](images/table_result2.jpg)
 
-![Query Result](table_result3.jpg)
+![Query Result](images/table_result3.jpg)
 
-![Query Result](table_result4.jpg)
+![Query Result](images/table_result4.jpg)
 
-![Query Result](table_result5.jpg)
+![Query Result](images/table_result5.jpg)
 
 ### Aggregations
 These queries focus on performing calculations involving summary statistics such as averages, sums, counts, max, min, and other aggregates to derive insights from data
