@@ -87,7 +87,7 @@ select * from dept_manager
 ![Query Result](table_result_2.jpg)
 
 #### Departments Table
-![Query Result](table_result_3.jpg)
+![Query Result](table_result3.jpg)
 
 #### Salaries Table
 ![Query Result](table_result_4.jpg)
