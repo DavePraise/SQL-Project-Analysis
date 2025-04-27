@@ -306,6 +306,7 @@ LEFT JOIN employees ON titles.emp_no = employees.emp_no
 SELECT first_name, last_name, emp_no, gender FROM employees
 WHERE emp_no = 10007
 ```
+![Query Result](query_result24.jpg)
 
 ## Challenges Faced
 - Troubleshooting complex subqueries
