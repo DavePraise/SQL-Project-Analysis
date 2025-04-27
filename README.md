@@ -80,19 +80,19 @@ select * from titles
 select * from dept_manager
 
 ```
-
+#### Employee Table
 ![Query Result](table_result1.jpg)
 
-
+#### Dept_Manager Table
 ![Query Result](table_result_2.jpg)
 
-
+#### Departments Table
 ![Query Result](table_result_3.jpg)
 
-
+#### Salaries Table
 ![Query Result](table_result_4.jpg)
 
-
+#### Titles (Job title) Table
 ![Query Result](table_result5.jpg)
 
 ### Aggregations
