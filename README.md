@@ -306,6 +306,6 @@ WHERE emp_no = 10007
 - Ensuring accurate results from executed queries: In some cases, I got the wrong result but I was able to rework the question and ultimately get the right answer
   
 ## Tools
-1.pgAdmin 4 (Postgre SQL)L For writing and executing sql queries
+1. pgAdmin 4 (Postgre SQL)L For writing and executing sql queries
 2. Excel/CSV: For importing data
 3. Github: For hosting the project for easy acess and collaboration
